@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Mi página WEB
 
 # Your name to show in the footer
-author: Some Person
+author: Gustavo Méndez
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://prezi.com/p/aqoddqtj2mz4/mi-biografia/"
-    - Learn markdown: "https://prezi.com/p/aqoddqtj2mz4/mi-biografia/"
-  Author's home: "https://prezi.com/p/aqoddqtj2mz4/mi-biografia/"
+  Sobre mi: "aboutme"
+  Tareas:
+    - Primera tarea: "https://view.genial.ly/61a026521611c50d6f0add7b/presentation-presentacion-tiza-y-pizarra"
+    
+  Autor: "https://prezi.com/p/aqoddqtj2mz4/mi-biografia/"
 
 # --- Logo --- #
 
@@ -39,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "gustavo.mendez@unach.edu.ec"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+  facebook: "https://www.facebook.com/gustavo.mendez.9803"
+  github: " https://gusemiliano.github.io/"
   twitter: daattali
   patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
+  youtube: "https://www.youtube.com/channel/UCXqBAIjr4P65OVN3HerQYIA"
+#  medium: Gustavo Méndez
+#  reddit: Gustavo Méndez
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
