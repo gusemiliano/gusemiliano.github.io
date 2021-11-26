@@ -72,7 +72,7 @@ tags: [books, test]
                 <li>Jardín de Infantes Doctor Fausto Vallejo Guamote</li>
              </p> 
         </article>
-        <h2 id="Cuarto" ; style= "color: chartreuse; font-size: 30px;" >Habilidades</h2>
+        Habilidades
         <article>
            <p>
             <li>Español  Hablado y Escrito</li>
@@ -85,13 +85,7 @@ tags: [books, test]
            </p>
         </article>
     </article>
-</section>
 
-<aside>
-    
-</aside>
-
-<a href="#inicio"; style="color: rgb(73, 50, 228); font-size: 20px;"> Regresar</a>
 <footer>
     <h1>Información importante</h1>
     <table border="7">
