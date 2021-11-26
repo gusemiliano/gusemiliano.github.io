@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mi
-subtitle: pasala muy bien
+subtitle: Pásala muy bien
 ---
 
 Mi nombre es Gustavo Méndez. Mis mejores cualidades son:
