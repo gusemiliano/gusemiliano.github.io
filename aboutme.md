@@ -4,7 +4,7 @@ title: Sobre mi
 subtitle: pasala muy bien
 ---
 
-Mi nopmbre es Gustavo méndez. Mis mejores cualidades son:
+Mi nombre es Gustavo Méndez. Mis mejores cualidades son:
 
 - Confiar en las personas
 - Tener una bella familia
