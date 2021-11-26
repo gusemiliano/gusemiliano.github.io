@@ -29,7 +29,7 @@ te presentamos una tabla especial:
 
 También deleitate con este hornado
 
-![Hornado](https://www.tqma.com.ec/images/com_yoorecipe/banner_superior/1653_1.jpg){: .mx-auto.d-block :}
+![Hornado](https://www.tqma.com.ec/images/com_yoorecipe/banner_superior/1653_1.jpg)
 
 Aprende un poco de código:
 
@@ -40,7 +40,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-Te dejo un poco de código con sintáxis highlighting:
+Te dejo un poco de código con sintáxis:
 
 ```javascript
 var foo = function(x) {
@@ -49,7 +49,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-te presento un código con lineas de números:
+te presento un código con líneas de números:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -58,16 +58,16 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
+## Cajas
 
 Puede agregar cuadros de notificación, advertencia y error como este:
 
-### Notification
+### Notificaxión
 
 {: .box-note}
 **Nota:** Este es un cuadro de notificación.
 
-### Warning
+### Advertencia
 
 {: .box-warning}
 **Alarma:** Este es un cuadro de advertencia.
