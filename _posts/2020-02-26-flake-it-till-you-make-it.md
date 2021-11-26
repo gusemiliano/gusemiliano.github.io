@@ -81,7 +81,7 @@ tags: [books, test]
             <li>Italiano Hablado y escrito</li>
             <li>Nociones básicas de Ruso hablado</li>
             <li>Nociones báasica de kichwa</li>
-            <li>Soporte Base de datos, Java, Html, Software Educativo, Web 2.0 para educación, Robótica Educativa, Realidad Vortual y Aumentada. </li>
+            <li>Soporte Base de datos, Java, Html, Software Educativo, Web 2.0 para educación, Robótica Educativa, Realidad Virtual y Aumentada. </li>
            </p>
         </article>
     </article>
